@@ -1,0 +1,12 @@
+*{
+    color: black;
+    background-color: blue;
+    }
+    h1:hover{
+        background-color: powderblue;
+        transition: background-color .5s;
+      }
+      
+      h1:hover {
+        background-color: gold;
+      }
